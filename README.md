@@ -8,10 +8,10 @@ A modern and responsive restaurant website built to showcase the menu, services,
 
 > Screenshots of the project interface
 
-![Home Page](public/screenshots/Home.png)
-![Menu Page](public/screenshots/menu.png)
-![Gallery Page](public/screenshots/gallery.png)
-![Contact Page](public/screenshots/contact.png)
+![Home](public/screenshots/Home.png)
+![Menu](public/screenshots/menu.png)
+![Gallery](public/screenshots/gallery.png)
+![Contact](public/screenshots/contact.png)
 
 ---
 
